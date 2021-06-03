@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![CircleCI](https://circleci.com/gh/springframeworkguru/mssc-beer-service.svg?style=svg)](https://circleci.com/gh/springframeworkguru/mssc-beer-service)
 # MSSC Beer Service
 
@@ -13,3 +14,6 @@ Learn more about my courses below!
 | Brewery Beer Service | 8080 |
 | [Brewery Beer Order Service](https://github.com/springframeworkguru/mssc-beer-order-service) | 8081 |
 | [Brewery Beer Inventory Service](https://github.com/springframeworkguru/mssc-beer-inventory-service) | 8082 |
+=======
+# beer-service
+>>>>>>> c658803b1df982f16b4308fcd0a9b84636ebad12
